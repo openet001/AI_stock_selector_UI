@@ -32,6 +32,9 @@ pip install requests matplotlib
 2. 在“股票代码手动输入”栏输入4个A股代码（如 `600519,600036,000858,601318`），点击“确定”，或直接点击“AI选股”由程序推荐并打开腾讯元宝网页
 3. 设置预警参数，点击“开始监控”，即可实时查看行情与曲线
 4. 如需停止监控，点击“停止监控”
+![image](https://github.com/user-attachments/assets/415bd146-ea92-4d9b-aa11-de8086756f9d)
+
+   
 
 ## 免责声明
 
