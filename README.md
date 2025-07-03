@@ -38,6 +38,8 @@ pip install requests matplotlib
 - 本工具仅供学习与交流，行情数据来自**财富网，准确性和时效性与数据源相关。
 - 不作为任何投资建议，使用者须自行承担风险。
 
+- 若需要帮助， 请联系 847297@qq.com  
+
 ## License
 
 MIT
